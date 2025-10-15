@@ -1,0 +1,29 @@
+Date,Product_SKU,Category,Our_Price,Our_Inventory_Level,Is_Our_Promo,Image_URL,Competitor_Price_CompA,Competitor_Price_CompB
+2025-10-01,Nike Men Air Max Excee Sneakers,Footwear,5999,200,1,https://static.nike.com/images/t_air_max_excee.png,6100,6050
+2025-10-02,Nike Men Air Max Excee Sneakers,Footwear,6010,198,0,https://static.nike.com/images/t_air_max_excee.png,6125,6080
+2025-10-03,Nike Men Air Max Excee Sneakers,Footwear,5980,195,0,https://static.nike.com/images/t_air_max_excee.png,6100,6030
+2025-10-04,Nike Men Air Max Excee Sneakers,Footwear,5975,190,1,https://static.nike.com/images/t_air_max_excee.png,6095,6025
+2025-10-05,Nike Men Air Max Excee Sneakers,Footwear,5940,185,0,https://static.nike.com/images/t_air_max_excee.png,6060,5990
+2025-10-06,Nike Men Air Max Excee Sneakers,Footwear,5900,180,0,https://static.nike.com/images/t_air_max_excee.png,6020,5950
+2025-10-07,Nike Men Air Max Excee Sneakers,Footwear,5870,175,1,https://static.nike.com/images/t_air_max_excee.png,5990,5920
+2025-10-01,Adidas Men Black Solid T-Shirt,Apparel,999,180,0,https://assets.adidas.com/images/t_black_tshirt.png,1020,1010
+2025-10-02,Adidas Men Black Solid T-Shirt,Apparel,1005,178,0,https://assets.adidas.com/images/t_black_tshirt.png,1025,1015
+2025-10-03,Adidas Men Black Solid T-Shirt,Apparel,1000,175,1,https://assets.adidas.com/images/t_black_tshirt.png,1022,1012
+2025-10-04,Adidas Men Black Solid T-Shirt,Apparel,995,172,0,https://assets.adidas.com/images/t_black_tshirt.png,1018,1008
+2025-10-05,Adidas Men Black Solid T-Shirt,Apparel,990,170,0,https://assets.adidas.com/images/t_black_tshirt.png,1015,1005
+2025-10-06,Adidas Men Black Solid T-Shirt,Apparel,985,168,0,https://assets.adidas.com/images/t_black_tshirt.png,1012,1002
+2025-10-07,Adidas Men Black Solid T-Shirt,Apparel,980,165,1,https://assets.adidas.com/images/t_black_tshirt.png,1008,998
+2025-10-01,Levis Men 512 Slim Tapered Fit Jeans,Apparel,2499,150,0,https://www.levi.com/512-jeans-image.jpg,2550,2530
+2025-10-02,Levis Men 512 Slim Tapered Fit Jeans,Apparel,2500,148,1,https://www.levi.com/512-jeans-image.jpg,2560,2540
+2025-10-03,Levis Men 512 Slim Tapered Fit Jeans,Apparel,2480,145,0,https://www.levi.com/512-jeans-image.jpg,2545,2525
+2025-10-04,Levis Men 512 Slim Tapered Fit Jeans,Apparel,2475,140,0,https://www.levi.com/512-jeans-image.jpg,2535,2510
+2025-10-05,Levis Men 512 Slim Tapered Fit Jeans,Apparel,2460,138,1,https://www.levi.com/512-jeans-image.jpg,2520,2500
+2025-10-06,Levis Men 512 Slim Tapered Fit Jeans,Apparel,2450,135,0,https://www.levi.com/512-jeans-image.jpg,2510,2490
+2025-10-07,Levis Men 512 Slim Tapered Fit Jeans,Apparel,2440,130,0,https://www.levi.com/512-jeans-image.jpg,2500,2480
+2025-10-01,HRX By Hrithik Roshan Men Training Jacket,Apparel,1799,100,0,https://www.hrx.in/training-jacket.jpg,1850,1830
+2025-10-02,HRX By Hrithik Roshan Men Training Jacket,Apparel,1805,98,0,https://www.hrx.in/training-jacket.jpg,1860,1840
+2025-10-03,HRX By Hrithik Roshan Men Training Jacket,Apparel,1800,95,0,https://www.hrx.in/training-jacket.jpg,1855,1835
+2025-10-04,HRX By Hrithik Roshan Men Training Jacket,Apparel,1795,92,1,https://www.hrx.in/training-jacket.jpg,1850,1830
+2025-10-05,HRX By Hrithik Roshan Men Training Jacket,Apparel,1790,90,0,https://www.hrx.in/training-jacket.jpg,1845,1825
+2025-10-06,HRX By Hrithik Roshan Men Training Jacket,Apparel,1785,88,0,https://www.hrx.in/training-jacket.jpg,1840,1820
+2025-10-07,HRX By Hrithik Roshan Men Training Jacket,Apparel,1780,85,1,https://www.hrx.in/training-jacket.jpg,1835,1815
