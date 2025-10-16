@@ -22,8 +22,32 @@ Project Workflow
 • Visualization: Data is displayed on an interactive Streamlit dashboard for easy interpretation.
 • Historical Tracking: All changes are tracked over time to identify trends and support strategic decision-making.
 
-Workflow Diagram Suggestion:
-[Data Collection] --> [Data Processing] --> [Analysis & Alerts] --> [Visualization] --> [Historical Tracking]
+
+project structure
+infosysecommerece/
+│
+├── .env                        # Environment variables
+├── .gitignore                  # Git ignore rules
+├── LICENSE                     # License file
+├── README.md                   # Project documentation
+├── agile.md                    # Agile methodology notes
+├── api.py                      # API integration scripts
+├── collect_data.py             # Data collection scripts
+├── competitor_data.db          # SQLite database for competitor data
+├── dashboard.py                # Streamlit dashboard application
+├── ecommerce_purchases_1000.csv# Sample e-commerce purchase data
+├── ecommerce_purchases_1000s.csv# Additional sample e-commerce purchase data
+├── load_dataset.py             # Dataset loading scripts
+├── main.py                     # Main application entry point
+├── notifications_log.csv       # Log of notifications sent
+├── prices.csv                  # Competitor pricing data
+├── pricing.csv                 # Additional pricing data
+├── rag.py                      # Risk Assessment Generator script
+├── requirements.txt            # Python dependencies
+├── reviews.csv                 # Competitor reviews data
+└── sent.py                     # Sentiment analysis script
+
+
 Project Link
 You can view the full project repository on GitHub here:
 https://github.com/artisanhub39/infosysecommerece
